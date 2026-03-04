@@ -1,6 +1,7 @@
 # Blackjack Simulator: Probabilistic Decision Modeling & Bankroll Optimization
 
 Author: Zachary Niccoli
+
 Tools: Python, Streamlit
 
 ## Project Overview
@@ -112,6 +113,9 @@ If no edge exists (p ≤ 0.5), the model recommends no bet.
 
 
 
-📸 Demo
+# Demo blackjack-simulator-niccoli.streamlit.app
 
-(screenshot or GIF)
+<img width="1920" height="1006" alt="Blackjack App 3" src="https://github.com/user-attachments/assets/a26c4910-e931-4b36-977c-eab72380f163" />
+<img width="1920" height="1001" alt="Blackjack App 2" src="https://github.com/user-attachments/assets/9074b8cf-9383-4c24-b1b3-037dfc5e1cf1" />
+<img width="1920" height="1004" alt="Blackjack App 1" src="https://github.com/user-attachments/assets/9086abda-3c6a-40cd-9a2d-61e661efbb88" />
+
